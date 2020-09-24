@@ -1,0 +1,13 @@
+/home/denis/Documentos/C#/miniGame/bin/Debug/netcoreapp3.1/miniGame
+/home/denis/Documentos/C#/miniGame/bin/Debug/netcoreapp3.1/miniGame.deps.json
+/home/denis/Documentos/C#/miniGame/bin/Debug/netcoreapp3.1/miniGame.runtimeconfig.json
+/home/denis/Documentos/C#/miniGame/bin/Debug/netcoreapp3.1/miniGame.runtimeconfig.dev.json
+/home/denis/Documentos/C#/miniGame/bin/Debug/netcoreapp3.1/miniGame.dll
+/home/denis/Documentos/C#/miniGame/bin/Debug/netcoreapp3.1/miniGame.pdb
+/home/denis/Documentos/C#/miniGame/obj/Debug/netcoreapp3.1/miniGame.csprojAssemblyReference.cache
+/home/denis/Documentos/C#/miniGame/obj/Debug/netcoreapp3.1/miniGame.AssemblyInfoInputs.cache
+/home/denis/Documentos/C#/miniGame/obj/Debug/netcoreapp3.1/miniGame.AssemblyInfo.cs
+/home/denis/Documentos/C#/miniGame/obj/Debug/netcoreapp3.1/miniGame.csproj.CoreCompileInputs.cache
+/home/denis/Documentos/C#/miniGame/obj/Debug/netcoreapp3.1/miniGame.dll
+/home/denis/Documentos/C#/miniGame/obj/Debug/netcoreapp3.1/miniGame.pdb
+/home/denis/Documentos/C#/miniGame/obj/Debug/netcoreapp3.1/miniGame.genruntimeconfig.cache

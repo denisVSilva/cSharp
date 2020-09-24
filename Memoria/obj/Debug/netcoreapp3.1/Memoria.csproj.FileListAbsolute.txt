@@ -1,0 +1,13 @@
+/home/denis/Documentos/C#/Memoria/obj/Debug/netcoreapp3.1/Memoria.csprojAssemblyReference.cache
+/home/denis/Documentos/C#/Memoria/obj/Debug/netcoreapp3.1/Memoria.AssemblyInfoInputs.cache
+/home/denis/Documentos/C#/Memoria/obj/Debug/netcoreapp3.1/Memoria.AssemblyInfo.cs
+/home/denis/Documentos/C#/Memoria/obj/Debug/netcoreapp3.1/Memoria.csproj.CoreCompileInputs.cache
+/home/denis/Documentos/C#/Memoria/bin/Debug/netcoreapp3.1/Memoria
+/home/denis/Documentos/C#/Memoria/bin/Debug/netcoreapp3.1/Memoria.deps.json
+/home/denis/Documentos/C#/Memoria/bin/Debug/netcoreapp3.1/Memoria.runtimeconfig.json
+/home/denis/Documentos/C#/Memoria/bin/Debug/netcoreapp3.1/Memoria.runtimeconfig.dev.json
+/home/denis/Documentos/C#/Memoria/bin/Debug/netcoreapp3.1/Memoria.dll
+/home/denis/Documentos/C#/Memoria/bin/Debug/netcoreapp3.1/Memoria.pdb
+/home/denis/Documentos/C#/Memoria/obj/Debug/netcoreapp3.1/Memoria.dll
+/home/denis/Documentos/C#/Memoria/obj/Debug/netcoreapp3.1/Memoria.pdb
+/home/denis/Documentos/C#/Memoria/obj/Debug/netcoreapp3.1/Memoria.genruntimeconfig.cache
