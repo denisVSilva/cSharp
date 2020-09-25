@@ -8,21 +8,48 @@ namespace miniGame
         public float Xp {get;set;} = 0;
         public int Hp {get;set;} = 100;
 
-        public int Damage(int dam){
-            return Hp = Hp - dam;
+        public void Damage(int dam){
+            Hp = Hp - dam;
         }
-        public int Heal(int H){
-            if (Hp == 100)
+        public void Heal(int H){
+            if (Hp < 100)
             {
-                return 0;
+                Hp = Hp + H;
+            } 
+            if (Hp > 100){
+                Hp = 100;
             }
-            return Hp = Hp + H;
+            
         }
-        public float xpUp(int up){
-            return Xp = Xp + up;
+        public void xpUp(int up){
+            Xp = Xp + up;
         }
-        public int levelUp(int up){
-            return level = level + up;
+        public void levelUp(int up){
+            level = level + up;
+        }
+
+        public int attack(string f){
+            if (classe == 1)
+            {
+                if (f == "corte")
+                {
+                    return 5;
+                }
+            }
+            if (classe == 2)
+            {
+                if (f == "ataque magico")
+                {
+                    return 5;
+                }
+            }
+            if (classe == 3)
+            {
+                if (f == "esfaquear")
+                {
+                    return 2;
+                }
+            }
         }
     }
 }
