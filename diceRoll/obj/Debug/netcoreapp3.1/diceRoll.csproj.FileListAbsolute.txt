@@ -1,0 +1,13 @@
+/home/denis/Documentos/C#/diceRoll/bin/Debug/netcoreapp3.1/diceRoll
+/home/denis/Documentos/C#/diceRoll/bin/Debug/netcoreapp3.1/diceRoll.deps.json
+/home/denis/Documentos/C#/diceRoll/bin/Debug/netcoreapp3.1/diceRoll.runtimeconfig.json
+/home/denis/Documentos/C#/diceRoll/bin/Debug/netcoreapp3.1/diceRoll.runtimeconfig.dev.json
+/home/denis/Documentos/C#/diceRoll/bin/Debug/netcoreapp3.1/diceRoll.dll
+/home/denis/Documentos/C#/diceRoll/bin/Debug/netcoreapp3.1/diceRoll.pdb
+/home/denis/Documentos/C#/diceRoll/obj/Debug/netcoreapp3.1/diceRoll.csprojAssemblyReference.cache
+/home/denis/Documentos/C#/diceRoll/obj/Debug/netcoreapp3.1/diceRoll.AssemblyInfoInputs.cache
+/home/denis/Documentos/C#/diceRoll/obj/Debug/netcoreapp3.1/diceRoll.AssemblyInfo.cs
+/home/denis/Documentos/C#/diceRoll/obj/Debug/netcoreapp3.1/diceRoll.csproj.CoreCompileInputs.cache
+/home/denis/Documentos/C#/diceRoll/obj/Debug/netcoreapp3.1/diceRoll.dll
+/home/denis/Documentos/C#/diceRoll/obj/Debug/netcoreapp3.1/diceRoll.pdb
+/home/denis/Documentos/C#/diceRoll/obj/Debug/netcoreapp3.1/diceRoll.genruntimeconfig.cache

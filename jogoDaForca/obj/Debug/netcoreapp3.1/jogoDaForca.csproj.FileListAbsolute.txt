@@ -1,0 +1,13 @@
+/home/denis/Documentos/C#/jogoDaForca/bin/Debug/netcoreapp3.1/jogoDaForca
+/home/denis/Documentos/C#/jogoDaForca/bin/Debug/netcoreapp3.1/jogoDaForca.deps.json
+/home/denis/Documentos/C#/jogoDaForca/bin/Debug/netcoreapp3.1/jogoDaForca.runtimeconfig.json
+/home/denis/Documentos/C#/jogoDaForca/bin/Debug/netcoreapp3.1/jogoDaForca.runtimeconfig.dev.json
+/home/denis/Documentos/C#/jogoDaForca/bin/Debug/netcoreapp3.1/jogoDaForca.dll
+/home/denis/Documentos/C#/jogoDaForca/bin/Debug/netcoreapp3.1/jogoDaForca.pdb
+/home/denis/Documentos/C#/jogoDaForca/obj/Debug/netcoreapp3.1/jogoDaForca.csprojAssemblyReference.cache
+/home/denis/Documentos/C#/jogoDaForca/obj/Debug/netcoreapp3.1/jogoDaForca.AssemblyInfoInputs.cache
+/home/denis/Documentos/C#/jogoDaForca/obj/Debug/netcoreapp3.1/jogoDaForca.AssemblyInfo.cs
+/home/denis/Documentos/C#/jogoDaForca/obj/Debug/netcoreapp3.1/jogoDaForca.csproj.CoreCompileInputs.cache
+/home/denis/Documentos/C#/jogoDaForca/obj/Debug/netcoreapp3.1/jogoDaForca.dll
+/home/denis/Documentos/C#/jogoDaForca/obj/Debug/netcoreapp3.1/jogoDaForca.pdb
+/home/denis/Documentos/C#/jogoDaForca/obj/Debug/netcoreapp3.1/jogoDaForca.genruntimeconfig.cache
